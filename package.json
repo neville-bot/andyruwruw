@@ -1,5 +1,5 @@
 {
-  "name": "andyruwruw-profile-page",
+  "name": "johnevin-profile-page",
   "version": "1.1.1",
   "description": "Github profile README.md",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyruwruw/andyruwruw.git"
+    "url": "git+https://github.com/neville-bot/andyruwruw.git"
   },
   "author": "Andrew Young",
   "license": "ISC",

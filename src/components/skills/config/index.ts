@@ -10,6 +10,7 @@ import mongodb from './mongodb';
 import nginx from './nginx';
 import node from './node';
 import nuxt from './nuxt';
+import postgres from './postgres';
 import python from './python';
 import react from './react';
 import sass from './sass';
@@ -30,6 +31,7 @@ export const paths: object = {
   nginx,
   node,
   nuxt,
+  postgres,
   python,
   react,
   sass,
