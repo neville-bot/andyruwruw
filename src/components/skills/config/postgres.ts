@@ -90,3 +90,5 @@ const paths: Array<ISkillPath> = [
         styles: null,
     }
 ]
+
+export default paths
