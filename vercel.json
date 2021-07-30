@@ -1,5 +1,10 @@
 {
-  "name": "andyruwruw/andyruwruw",
+  "name": "neville-bot/andyruwruw",
   "version": 2,
-  "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/$1"
+    }
+  ]
 }

@@ -7,19 +7,13 @@ import { renderToString } from 'react-dom/server';
 import { Skills } from '../src/components/skills/Skills';
 
 const SKILLS = [
-  'vue',
+  'css',
   'react',
   'sass',
-  'typescript',
-  'nuxt',
+  'javascript',
   'node',
-  'mongodb',
-  'terraform',
-  'csharp',
-  'python',
-  'java',
-  'c',
-  'cplusplus',
+  'postgres',
+  'html',
   'git',
 ];
 
@@ -39,7 +33,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     'Cache-Control',
     's-maxage=1, stale-while-revalidate',
   );
-  
+
   // Generating the component and rendering it
   const text: string = renderToString(
     Skills({ skills: SKILLS }),
