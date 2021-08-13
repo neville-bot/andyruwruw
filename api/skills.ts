@@ -7,13 +7,14 @@ import { renderToString } from 'react-dom/server';
 import { Skills } from '../src/components/skills/Skills';
 
 const SKILLS = [
-  'css',
   'react',
-  'sass',
+  'express',
   'javascript',
   'node',
   'postgres',
+  'sass',
   'html',
+  'css',
   'git',
 ];
 

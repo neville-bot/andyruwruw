@@ -2,6 +2,7 @@ import c from './c';
 import cplusplus from './cplusplus';
 import csharp from './csharp';
 import css from './css';
+import express from './express';
 import git from './git';
 import html from './html';
 import java from './java';
@@ -23,6 +24,7 @@ export const paths: object = {
   cplusplus,
   csharp,
   css,
+  express,
   git,
   html,
   java,
