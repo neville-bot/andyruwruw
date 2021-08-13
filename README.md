@@ -1,48 +1,24 @@
-hello! here's a little about me:
+hello! I'm John:
 
 <h1>
-  i really like music :headphones:
+  Fullstack developer out of Chicago
 </h1>
 
-<!-- Nothing weird to see here -->
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://andyruwruw.vercel.app/api/top-played">
-</p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
-
-<p></p>
-
 <h1>
-  i was a frontend intern at chess.com ♟️
+  Love building with theses tools :hammer:
 </h1>
 
 <p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://andyruwruw.vercel.app/api/chess-games">
-  </a>
+  <img src="https://johnevin-profile-page-njyefxoh3-neville-bot.vercel.app//api/skills">
 </p>
 
-<p align="center">
-  <i>luckily being good at chess wasn't a pre-req to the job</i>
+<p align="center"> 
+  <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
 
-<p></p>
+<h1> Currently working on building a Twitter Clone -- using JS/CSS/React/Express :microscope:</h1>
 
-<h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
-</h1>
+<h1>I’m currently advanced React(Fragments, Portals, Proptypes) and building a small game :telescope:</h1>
 
-<p align="center">
-  <img src="https://andyruwruw.vercel.app/api/skills">
-</p>
+ <h1> You can reach me at jnevin17@gmail.com anytime Mon - Fri, 10am - 2pm :mailbox:</h1>
+<h1> Check out my portfolio at [Portfolio](https://www.johnevin.com) :electric_plug: </h1>
