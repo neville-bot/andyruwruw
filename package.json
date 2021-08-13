@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/andyruwruw/andyruwruw/issues"
   },
-  "homepage": "https://github.com/andyruwruw/andyruwruw#readme",
+  "homepage": "https://github.com/neville-bot/neville-bot#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.1",

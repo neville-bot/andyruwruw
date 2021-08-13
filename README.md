@@ -1,11 +1,7 @@
-hello! I'm John:
+hello! I'm John, Welcome to my Github!
 
 <h1>
-  Fullstack developer out of Chicago
-</h1>
-
-<h1>
-  Love building with theses tools :hammer:
+  I love building with theses tools :hammer:
 </h1>
 
 <p align="center">
@@ -16,9 +12,9 @@ hello! I'm John:
   <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
 
-<h1> Currently working on building a Twitter Clone -- using JS/CSS/React/Express :microscope:</h1>
-
-<h1>I’m currently advanced React(Fragments, Portals, Proptypes) and building a small game :telescope:</h1>
-
- <h1> You can reach me at jnevin17@gmail.com anytime Mon - Fri, 10am - 2pm :mailbox:</h1>
-<h1> Check out my portfolio at [Portfolio](https://www.johnevin.com) :electric_plug: </h1>
+<ul> 
+<li>I'm building a Twitter Clone -- using JS/CSS/React/Express :bird:</li>
+<li>I’m learning advanced React(Fragments, Portals, Proptypes) and building a small game :telescope:</li>
+<li>You can reach me at jnevin17@gmail.com anytime Mon - Fri, 10am - 2pm :mailbox:</li>
+<li>Check out my portfolio at [Portfolio](https://www.johnevin.com) :electric_plug:</li> 
+ </ul>
