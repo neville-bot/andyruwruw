@@ -9,7 +9,7 @@ hello! I'm John:
 </h1>
 
 <p align="center">
-  <img src="https://johnevin-profile-page-njyefxoh3-neville-bot.vercel.app//api/skills">
+  <img src="https://johnevin-profile-page.vercel.app/api/skills">
 </p>
 
 <p align="center"> 
